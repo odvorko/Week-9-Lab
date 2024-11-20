@@ -1,0 +1,16 @@
+button {
+    width: 300px;
+    height: 300px;
+    font-size: 50px;
+    margin: 0 auto;
+}
+.hidden {
+    display: none;
+}
+.lyrics-block {
+    width: auto;
+    height: auto;
+    background-color: rgb(102, 64, 64);
+    font-weight: bold;
+    font-size: 20px;
+}

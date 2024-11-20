@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+#message {
+    font-size: 36px;
+    color: blueviolet;
+}
+.button {
+    width: 32em;
+    height: 24em;
+    background-color: aquamarine;
+    border-radius: 10em;
+}
+.hidden {
+    display: none;
+}
